@@ -1,0 +1,24 @@
+{
+  "name": "neat-rr",
+  "version": "0.0.1",
+  "description": "Give an array, return a function which can get item in a round-robin manner.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Node-utils/neat-rr.git"
+  },
+  "keywords": [
+    "neat",
+    "rr",
+    "round-robin"
+  ],
+  "author": "zhuqiuyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Node-utils/neat-rr/issues"
+  },
+  "homepage": "https://github.com/Node-utils/neat-rr#readme"
+}
